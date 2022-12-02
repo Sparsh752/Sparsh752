@@ -24,8 +24,9 @@
   <a href="https://www.instagram.com/sparsh_mittal3/?next=https%3A%2F%2Fwww.instagram.com%2Fexplore%2F%3Fhl%3Den%26__coig_login%3D1"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="https://twitter.com/SparshMittal23"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </p>
+<h3 align="left">CP Status</h3>
 
-
-![Badge](https://cp-logo.vercel.app/codechef/spaesh752?logo=true)
+![Badge](https://cp-logo.vercel.app/atcoder/sparsh752?logo=true)
 ![Badge](https://cp-logo.vercel.app/codeforces/sparshmittal2311?logo=true)
+
 <h3 align="left">Languages and Tools</h3>
