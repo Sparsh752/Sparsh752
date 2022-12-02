@@ -25,3 +25,7 @@
   <a href="https://twitter.com/SparshMittal23"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </p>
 
+
+![Badge](https://cp-logo.vercel.app/codechef/spaesh752?logo=true)
+![Badge](https://cp-logo.vercel.app/codeforces/sparshmittal2311?logo=true)
+<h3 align="left">Languages and Tools</h3>
