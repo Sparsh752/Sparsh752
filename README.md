@@ -15,6 +15,6 @@
 - 🔭 I’m currently working on **App and Web Development**
 - 🌱 I’m currently learning **Deep Learning**
 - 💬 Ask me about **Football**
-- 📫 How to reach me: 
-- ⚡ Fun fact: ...
+- 📫 How to reach me: **sparshmittal2311@gmail.com or m.sparsh@iitg.ac.in**
+- ⚡ Fun fact: ***I love to watch and play Football***
 
