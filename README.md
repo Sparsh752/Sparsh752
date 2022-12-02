@@ -10,7 +10,8 @@
 
 <h1 align="center"> Hi👋, I am Sparsh Mittal </h1>
 
-![Profile views](https://gpvc.arturio.dev/Sparsh752)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sparsh752&label=Profile%20views&color=0e75b6&style=flat" alt="Sparsh" /> </p>
+
 - 🔭 I’m currently working on **App and Web Development**
 - 🌱 I’m currently learning **Deep Learning**
 - 💬 Ask me about **Football**
