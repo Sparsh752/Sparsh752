@@ -18,3 +18,10 @@
 - 📫 How to reach me: **sparshmittal2311@gmail.com or m.sparsh@iitg.ac.in**
 - ⚡ Fun fact: ***I love to watch and play Football***
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sparsh-m-400846119/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.instagram.com/sparsh_mittal3/?next=https%3A%2F%2Fwww.instagram.com%2Fexplore%2F%3Fhl%3Den%26__coig_login%3D1"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="https://twitter.com/SparshMittal23"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+</p>
+
