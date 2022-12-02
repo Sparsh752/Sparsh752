@@ -35,6 +35,7 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a> 
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
  
 
