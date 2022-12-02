@@ -41,4 +41,6 @@
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="c++" width="40" height="40"/> </a> 
  
-
+<br>
+  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparsh752&show_icons=true&locale=en" alt="Sparsh" /></p>
