@@ -39,5 +39,6 @@
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="c++" width="40" height="40"/> </a> 
  
 
